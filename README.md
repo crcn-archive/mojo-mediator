@@ -1,4 +1,4 @@
-Mojo-mediator is a plugin that provides a sort-of in-application communication layer. It uses [mediocre.js](https://github.com/classdojo/mediocre.js).
+Mojo-mediator is a plugin that provides a communication layer for different parts of your application. It uses [mediocre.js](https://github.com/classdojo/mediocre.js).
 
 
 entry.js:
