@@ -11,7 +11,6 @@ app.
   use(require("mojo-mediator")).
   use(require("./commands"));
 
-
 app.mediator.execute("initialize", function () {
 });
 ```
