@@ -1,0 +1,21 @@
+{
+  "name": "mojo-mediator",
+  "version": "0.0.1",
+  "description": "Mojo-mediator is a plugin that provides a communication layer for different parts of your application. It uses [mediocre.js](https://github.com/classdojo/mediocre.js).",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/classdojo/mojo-mediator.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/classdojo/mojo-mediator/issues"
+  },
+  "dependencies": {
+    "mediocre": "0.0.6"
+  }
+}
